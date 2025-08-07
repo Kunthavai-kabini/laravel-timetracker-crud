@@ -1,0 +1,8 @@
+body {
+    background-color: #cccccc;
+}
+form {
+    display: flex;
+    flex-direction: column;  /* Arrange form controls vertically */
+    gap: 20px !important;  /* Space between form controls */
+}
